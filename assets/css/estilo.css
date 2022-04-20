@@ -1,6 +1,9 @@
-/*Estilos da página index.html*/
 .center {
     text-align: center;
+}
+
+.justify {
+    text-align: justify;
 }
 
 .container {
@@ -29,6 +32,10 @@
     padding: 30px;
 }
 
+.p-100 {
+    padding: 100px;
+}
+
 .br-50 {
     border-radius: 50%;
 }
@@ -36,6 +43,11 @@
 .wh-300 {
     width: 450px;
     height: 300px;
+}
+
+.wh-500 {
+    width: 400px;
+    height: 330px;
 }
 
 .tm-social {
@@ -46,4 +58,3 @@
 .mb-50 {
     margin-bottom: 50px;
 }
-/*Estilos da página sobretupis.html*/
